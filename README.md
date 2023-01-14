@@ -8,17 +8,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="norbert-acedanski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="disturbed__silence | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="disturbed__silence | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="norbert-acedanski | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="disturbed__silence | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" alt="disturbed__silence | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="Predator97a | Project Euler" width="22px" src="https://veenga.files.wordpress.com/2014/08/projecteulerisback1.jpg" />][project_euler]
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/96209703517252ea7fcd811870dfa2f7915d5f87/icons/pycharm.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
 <br />
 
@@ -32,3 +33,4 @@
 [youtube]: https://www.youtube.com/channel/UCtbpbFFJrJwOD37mMk1w_UA
 [instagram]: https://www.instagram.com/disturbed__silence/
 [linkedin]: https://www.linkedin.com/in/norbert-acedanski/
+[project_euler]: https://projecteuler.net/progress=Predator97a
