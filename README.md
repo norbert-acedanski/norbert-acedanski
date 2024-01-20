@@ -2,8 +2,8 @@
 
 ## I'm a QA Engineer, Roboticist and I program for fun in Python.
 
-- Currently, working on 3 projects: Supernatural Guide, Automated posting of sales offers and Ciphers
-- 2023 Goals: Contribute more and create some awsome projects
+- Currently, working on 4 projects: Supernatural Guide, Ciphers, Piano pieces list preparation and Family Tree graph
+- 2024 Goals: Contribute more and create some awsome projects
 - Fun fact: I love to experiment with Arduino and play piano
 
 ### Connect with me:
