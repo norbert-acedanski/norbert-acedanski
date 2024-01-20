@@ -1,6 +1,6 @@
 ### Hi there, I'm Norbert
 
-## I'm a QA Engineer, Roboticist and I program for fun in Python.
+## I'm a QA Engineer, Roboticist and I program for fun in Python. Professionally I create Automation tests using Python + Selenium.
 
 - Currently, working on 4 projects: Supernatural Guide, Ciphers, Piano pieces list preparation and Family Tree graph
 - 2024 Goals: Contribute more and create some awsome projects
