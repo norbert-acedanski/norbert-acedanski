@@ -23,12 +23,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
 <br />
 
-### TODO in 2023:
-- [ ] Finish Supernatural Guide (currently on S04) and post it on GitHub
-- [ ] Finish Automated posting of sales offers and post it on GitHub
+### TODO in 2024:
+- [ ] Finish Supernatural Guide completely (missing appearances, refactor)
 - [ ] Finish Ciphers (package, docstrings, tests, refactor)
-- [ ] Start working on Robot control with peripherals project again
-- [ ] Start working on Graph data project again
+- [ ] Continue working on Piano pieces list preparation
+- [ ] Publish repo to create Family Tree grahps based on json files
+- [ ] Start some amaizing repository!
 
 [youtube]: https://www.youtube.com/channel/UCtbpbFFJrJwOD37mMk1w_UA
 [instagram]: https://www.instagram.com/disturbed__silence/
