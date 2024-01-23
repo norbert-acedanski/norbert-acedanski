@@ -4,7 +4,7 @@
 
 - Currently, working on 4 projects: Supernatural Guide, Ciphers, Piano pieces list preparation and Family Tree graph
 - 2024 Goals: Contribute more and create some awsome projects
-- Fun fact: I love to experiment with Arduino and play piano
+- Fun fact: I have a Youtube channel and Instagram account with my piano versions of songs and pieces. Check it out below! :)
 
 ### Connect with me:
 
@@ -30,7 +30,7 @@
 - [ ] Publish repo to create Family Tree grahps based on json files
 - [ ] Start some amaizing repository!
 
-[youtube]: https://www.youtube.com/channel/UCtbpbFFJrJwOD37mMk1w_UA
-[instagram]: https://www.instagram.com/disturbed__silence/
+[youtube]: https://www.youtube.com/@disturbed__silence4529
+[instagram]: https://www.instagram.com/disturbed__silence
 [linkedin]: https://www.linkedin.com/in/norbert-acedanski/
 [project_euler]: https://projecteuler.net/progress=Predator97a
